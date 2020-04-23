@@ -5,6 +5,7 @@
 * @param {Number} n
 * @returns {Number}
 */
+
 function factorial(n) {
     let result = 1;
     let i = 1;
